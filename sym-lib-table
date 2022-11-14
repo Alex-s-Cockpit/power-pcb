@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "cockpit_pwr")(type "KiCad")(uri "${KIPRJMOD}/cockpit_pwr.kicad_sym")(options "")(descr ""))
+  (lib (name "cockpit_common")(type "KiCad")(uri "${COCKPIT_COMMON}/cockpit_common.kicad_sym")(options "")(descr ""))
+)

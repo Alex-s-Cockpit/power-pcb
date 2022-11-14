@@ -1,0 +1,5 @@
+STP_WE-PD1280clip_7447707xxx_(rev1).stp : https://www.we-online.com/katalog/en/WE-PD
+RJ45_Hanrun_HR911105A.wrl : https://grabcad.com/library/rj45-hanrun-hr911105a-1
+3Pins SPDT switch SK-12D07 1P2T.step : https://grabcad.com/library/sk-12d07-1p2t-1
+barrel_jack.step : https://grabcad.com/library/ds-210-2-1mm-dc-female-barrel-jack-1
+M-RJHSE-X38X-02-REVT1.STEP: https://www.amphenol-cs.com/modular-jacks-rjhse538102.html#
